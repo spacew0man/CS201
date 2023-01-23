@@ -1,4 +1,4 @@
-#written and tested by Katie Humphreys (@humphkat)
+#written and tested by Katie Humphreys
 print('Enter degree of angle:')
 degrees = float(input())
 x = (degrees * 3.1415926) / 180
